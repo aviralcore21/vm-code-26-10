@@ -7,6 +7,10 @@ rgs = {
     name     = "rg-dev-app1"
     location = "westus"
   }
+  rg3 = {
+    name     = "rg-dev-vm"
+    location = "centralindia"
+  }
 }
 
 stor_accs = {
